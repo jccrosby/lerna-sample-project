@@ -1,5 +1,5 @@
 {
-  "name": "usage-app",
+  "name": "@my-lerna-sample/usage-app",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
