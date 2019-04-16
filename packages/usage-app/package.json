@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "component-one": "^1.0.5"
+    "component-one": "^1.0.5",
+    "component-two": "^1.0.5"
   }
 }
