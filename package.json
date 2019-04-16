@@ -2,7 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "bootstrap": "lerna bootstrap --hoist"
+    "bootstrap": "lerna bootstrap --hoist",
+    "release": "./node_modules/.bin/lerna publish"
   },
   "devDependencies": {
     "lerna": "^3.13.2"
