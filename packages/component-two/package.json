@@ -13,5 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "sillyname": "^0.1.0"
-  }
+  },
+  "gitHead": "c57d3f3aacbc908b28d08ba4aa2060d4c30b291f"
 }
