@@ -10,3 +10,5 @@ console.log('Major change');
 console.log('Major change');
 
 console.log('Breaking change');
+
+console.log('Another breaking change');
