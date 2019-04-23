@@ -9,6 +9,4 @@ console.log('Major change');
 
 console.log('Major change');
 
-console.log('Major change');
-
-console.log('Minor change');
+console.log('Breaking change');
