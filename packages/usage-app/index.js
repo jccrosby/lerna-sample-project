@@ -6,3 +6,5 @@ console.log('Added a new feature');
 console.log('Introduce a breaking change');
 
 console.log('Major change');
+
+console.log('Major change');
