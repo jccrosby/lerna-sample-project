@@ -1,6 +1,6 @@
 {
   "name": "@my-lerna-sample/component-two",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
