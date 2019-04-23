@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "lerna": "^3.13.2"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   }
 }
