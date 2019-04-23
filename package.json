@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist",
+    "registry": "verdaccio",
     "release": "./node_modules/.bin/lerna publish"
   },
   "devDependencies": {
