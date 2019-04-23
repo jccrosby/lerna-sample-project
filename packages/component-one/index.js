@@ -4,3 +4,4 @@ console.log('component-one', generateName());
 console.log('component-one--', generateName());
 console.log('component-one---', generateName());
 console.log('component-one----', generateName());
+console.log('component-one-----', generateName());
